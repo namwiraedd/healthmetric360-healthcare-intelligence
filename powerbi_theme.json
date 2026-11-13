@@ -1,0 +1,15 @@
+{
+  "name": "HealthMetric 360",
+  "dataColors": [
+    "#159B9A",
+    "#102A43",
+    "#5B8FF9",
+    "#F59E0B",
+    "#DC2626",
+    "#64748B",
+    "#7C3AED"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#102A43",
+  "tableAccent": "#159B9A"
+}
